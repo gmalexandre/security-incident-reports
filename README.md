@@ -11,3 +11,7 @@ In this repository, you'll find the following projects:
   Technologies used: tcpdump, DNS, HTTP, Brute Force Attack Mitigation.
 
 Disclaimer: This project was completed as part of the Google Professional Certificate program. The views and opinions expressed in this repository are those of the author and do not reflect those of Google.
+
+- **Project 2**: DNS Resolution Investigation - YummyRecipesForMe.com
+In this project, I analyzed network traffic logs to investigate issues related to DNS resolution for the domain yummyrecipesforme.com. The task involved examining repeated ICMP "Destination Port Unreachable" messages and identifying potential causes such as DNS server misconfiguration or network routing issues. I documented the findings, identified the root cause, and provided recommendations to resolve the incident effectively.
+Technologies used: tcpdump, DNS, ICMP, Network Analysis.
